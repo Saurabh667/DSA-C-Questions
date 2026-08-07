@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0141-linked-list-cycle/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0141-linked-list-cycle/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |

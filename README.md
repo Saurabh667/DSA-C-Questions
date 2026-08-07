@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 ## Two Pointers

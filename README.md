@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0058-length-of-last-word/) | Easy |
 | [0389-find-the-difference](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0389-find-the-difference/) | Easy |
 ## Bit Manipulation
@@ -55,5 +56,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->

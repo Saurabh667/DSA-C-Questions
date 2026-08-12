@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0136-single-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0389-find-the-difference/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0136-single-number/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0946-validate-stack-sequences/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |

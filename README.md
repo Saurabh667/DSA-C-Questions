@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0058-length-of-last-word/) | Easy |
 | [0071-simplify-path](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0071-simplify-path/) | Medium |
 | [0389-find-the-difference](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0389-find-the-difference/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0071-simplify-path/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0946-validate-stack-sequences/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,4 +77,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0946-validate-stack-sequences](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0946-validate-stack-sequences/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->

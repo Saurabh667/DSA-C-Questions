@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0071-simplify-path/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0136-single-number](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0136-single-number/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
@@ -94,5 +96,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [2487-remove-nodes-from-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->

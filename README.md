@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |

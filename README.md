@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0143-reorder-list/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -110,4 +111,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->

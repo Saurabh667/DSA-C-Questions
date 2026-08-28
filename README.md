@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0389-find-the-difference](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0389-find-the-difference/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0217-contains-duplicate](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0389-find-the-difference](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0389-find-the-difference/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 ## Stack
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0136-single-number/) | Easy |
 | [0164-maximum-gap](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0217-contains-duplicate](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0622-design-circular-queue](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0641-design-circular-deque/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -136,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0164-maximum-gap/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,4 +148,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0164-maximum-gap/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->

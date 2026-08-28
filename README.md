@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0217-contains-duplicate](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0389-find-the-difference](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0389-find-the-difference/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0136-single-number/) | Easy |
+| [0164-maximum-gap](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0217-contains-duplicate](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0622-design-circular-queue](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0641-design-circular-deque/) | Medium |
@@ -130,4 +132,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0641-design-circular-deque/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0164-maximum-gap/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0164-maximum-gap/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->

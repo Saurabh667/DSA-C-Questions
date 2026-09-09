@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0050-powx-n/) | Medium |
+| [3871-count-commas-in-range-ii](https://github.com/Saurabh667/DSA-C-Questions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Saurabh667/DSA-C-Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |

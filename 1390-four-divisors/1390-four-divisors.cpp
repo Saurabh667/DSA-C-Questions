@@ -52,7 +52,6 @@ public:
                         sum += j;
                     }
 
-                    // More than 4 divisors
                     if (count > 4)
                         break;
                 }

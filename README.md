@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0050-powx-n/) | Medium |
+| [0223-rectangle-area](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0223-rectangle-area/) | Medium |
 | [3871-count-commas-in-range-ii](https://github.com/Saurabh667/DSA-C-Questions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Saurabh667/DSA-C-Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Tree
@@ -200,4 +201,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0048-rotate-image/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0223-rectangle-area](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0223-rectangle-area/) | Medium |
 <!---LeetCode Topics End-->

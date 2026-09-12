@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0050-powx-n/) | Medium |
+| [0070-climbing-stairs](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0223-rectangle-area](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0223-rectangle-area/) | Medium |
 | [1390-four-divisors](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1390-four-divisors/) | Medium |
 | [3871-count-commas-in-range-ii](https://github.com/Saurabh667/DSA-C-Questions/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -226,4 +228,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0196-delete-duplicate-emails/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->

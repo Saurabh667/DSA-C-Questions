@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0143-reorder-list/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0225-implement-stack-using-queues/) | Easy |
@@ -195,14 +196,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |

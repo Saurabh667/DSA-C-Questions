@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1302-deepest-leaves-sum/) | Medium |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1302-deepest-leaves-sum/) | Medium |
@@ -283,5 +285,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->

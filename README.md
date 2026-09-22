@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0389-find-the-difference](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0389-find-the-difference/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Saurabh667/DSA-C-Questions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0164-maximum-gap](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0217-contains-duplicate](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0622-design-circular-queue](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0641-design-circular-deque/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |

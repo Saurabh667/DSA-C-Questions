@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -273,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -321,4 +325,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 <!---LeetCode Topics End-->

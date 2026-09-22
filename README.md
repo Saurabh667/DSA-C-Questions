@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -321,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0450-delete-node-in-a-bst/) | Medium |

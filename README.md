@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0182-duplicate-emails](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0182-duplicate-emails/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0196-delete-duplicate-emails/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |

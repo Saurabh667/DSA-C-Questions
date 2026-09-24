@@ -1,13 +1,13 @@
 class Solution {
 public:
     int arrangeCoins(int n) {
-        int steps=0;
+        // int steps=0;
         int cap=1;
         while(cap<=n){
             n=n-cap;
-            steps++;
+            // steps++;
             cap++;
         }
-        return steps;
+        return cap-1;
     }
 };

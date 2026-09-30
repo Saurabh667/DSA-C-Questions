@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0389-find-the-difference](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0389-find-the-difference/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 ## Stack
@@ -138,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0622-design-circular-queue](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0641-design-circular-deque/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0739-daily-temperatures](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
@@ -192,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0164-maximum-gap](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,11 +219,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -397,4 +404,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0278-first-bad-version/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 <!---LeetCode Topics End-->

@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0389-find-the-difference/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0739-daily-temperatures](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0739-daily-temperatures/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0856-score-of-parentheses](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0856-score-of-parentheses/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |

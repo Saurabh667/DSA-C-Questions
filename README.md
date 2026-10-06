@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0036-valid-sudoku](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0036-valid-sudoku/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0141-linked-list-cycle/) | Easy |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0048-rotate-image/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -335,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0048-rotate-image/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |

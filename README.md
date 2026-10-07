@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0856-score-of-parentheses](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Bracket Sequences

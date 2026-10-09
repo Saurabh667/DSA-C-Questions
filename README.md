@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-deepest-leaves-sum](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1382-balance-a-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-deepest-leaves-sum](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1382-balance-a-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -363,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-deepest-leaves-sum](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1382-balance-a-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -426,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1382-balance-a-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -460,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Hamiltonian Path
 | Problem Name | Difficulty |

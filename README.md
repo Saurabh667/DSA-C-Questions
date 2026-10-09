@@ -305,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0538-convert-bst-to-greater-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0669-trim-a-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
@@ -327,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0538-convert-bst-to-greater-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0669-trim-a-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0538-convert-bst-to-greater-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0669-trim-a-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
@@ -417,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0669-trim-a-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |

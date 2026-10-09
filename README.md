@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0143-reorder-list/) | Medium |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -339,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -402,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |

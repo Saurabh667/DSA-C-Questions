@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0143-reorder-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0622-design-circular-queue](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0622-design-circular-queue/) | Medium |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0143-reorder-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Saurabh667/DSA-C-Questions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |

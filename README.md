@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Hash Table
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0389-find-the-difference/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0520-detect-capital](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0520-detect-capital/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -471,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0680-valid-palindrome-ii](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |

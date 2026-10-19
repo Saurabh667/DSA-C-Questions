@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Saurabh667/DSA-C-Questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Saurabh667/DSA-C-Questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Saurabh667/DSA-C-Questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Saurabh667/DSA-C-Questions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saurabh667/DSA-C-Questions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -450,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Saurabh667/DSA-C-Questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |

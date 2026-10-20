@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0389-find-the-difference](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0071-simplify-path/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0389-find-the-difference/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0520-detect-capital](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0520-detect-capital/) | Easy |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0164-maximum-gap](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0389-find-the-difference](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |

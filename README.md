@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Saurabh667/DSA-C-Questions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0441-arranging-coins](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0441-arranging-coins/) | Easy |
 | [1390-four-divisors](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1390-four-divisors/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Saurabh667/DSA-C-Questions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saurabh667/DSA-C-Questions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Saurabh667/DSA-C-Questions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Saurabh667/DSA-C-Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |

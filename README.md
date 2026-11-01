@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0641-design-circular-deque/) | Medium |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0223-rectangle-area](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0223-rectangle-area/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0441-arranging-coins/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1390-four-divisors](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1390-four-divisors/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Saurabh667/DSA-C-Questions/tree/main/2409-count-days-spent-together/) | Easy |

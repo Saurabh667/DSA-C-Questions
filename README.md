@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0641-design-circular-deque/) | Medium |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0441-arranging-coins/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1390-four-divisors](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1390-four-divisors/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Saurabh667/DSA-C-Questions/tree/main/2409-count-days-spent-together/) | Easy |

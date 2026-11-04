@@ -333,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0513-find-bottom-left-tree-value](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0513-find-bottom-left-tree-value](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -390,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0513-find-bottom-left-tree-value](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -441,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0513-find-bottom-left-tree-value](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1302-deepest-leaves-sum/) | Medium |

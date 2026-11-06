@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |

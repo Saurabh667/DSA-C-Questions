@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0283-move-zeroes/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1089-duplicate-zeros](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1089-duplicate-zeros/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0946-validate-stack-sequences](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0980-unique-paths-iii/) | Hard |
+| [1089-duplicate-zeros](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1089-duplicate-zeros/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1390-four-divisors](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1390-four-divisors/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Saurabh667/DSA-C-Questions/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |

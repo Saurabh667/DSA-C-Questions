@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0739-daily-temperatures](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0501-find-mode-in-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
@@ -380,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0501-find-mode-in-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/Saurabh667/DSA-C-Questions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
